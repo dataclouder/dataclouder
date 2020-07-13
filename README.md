@@ -2,7 +2,7 @@
 
 I am an open source developer, working for [VMware](https://vmware.com). 
 
-I am part of a tem that maintains [go-vcloud-director](https://github.com/vmware/go-vcloud-director) and [terraform-providr-vcd](https://github.com/terraform-maintainers/terraform-provider-vcd)
+I am part of a team that maintains [go-vcloud-director](https://github.com/vmware/go-vcloud-director) and [terraform-provider-vcd](https://github.com/terraform-maintainers/terraform-provider-vcd)
 
 I am also active on Github as [@datacharmer](https://github.com/datacharmer)
 
